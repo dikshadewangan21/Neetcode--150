@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -101,6 +103,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
