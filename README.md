@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
 |  |
 | ------- |
