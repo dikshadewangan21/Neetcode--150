@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0567-permutation-in-string) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0853-car-fleet) |
 ## Array
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0739-daily-temperatures) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0875-koko-eating-bananas) |
 ## Greedy
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
 ## Pigeonhole Principle
