@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0371-sum-of-two-integers) |
