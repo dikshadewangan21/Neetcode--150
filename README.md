@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0128-longest-consecutive-sequence) |
