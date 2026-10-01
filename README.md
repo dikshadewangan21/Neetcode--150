@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
 | [0853-car-fleet](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0853-car-fleet) |
 ## Array
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
 | [0739-daily-temperatures](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0875-koko-eating-bananas) |
@@ -127,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
