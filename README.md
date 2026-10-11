@@ -282,14 +282,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0098-validate-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
