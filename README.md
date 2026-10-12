@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1046-last-stone-weight) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0875-koko-eating-bananas) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Greedy
 |  |
 | ------- |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0098-validate-binary-search-tree) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
