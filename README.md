@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/dikshadewangan21/Neetcode--150/tree/master/1851-minimum-interval-to-include-each-query) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
