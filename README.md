@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0138-copy-list-with-random-pointer) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
