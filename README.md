@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0347-top-k-frequent-elements) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0567-permutation-in-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
