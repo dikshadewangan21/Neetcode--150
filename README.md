@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0567-permutation-in-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
+| [0091-decode-ways](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
