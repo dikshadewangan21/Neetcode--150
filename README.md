@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0051-n-queens) |
+| [0357-count-numbers-with-unique-digits](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0357-count-numbers-with-unique-digits) |
 ## Algorithm X
 |  |
 | ------- |
