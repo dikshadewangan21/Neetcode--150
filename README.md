@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0242-valid-anagram) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dikshadewangan21/Neetcode--150/tree/master/0150-evaluate-reverse-polish-notation) |
